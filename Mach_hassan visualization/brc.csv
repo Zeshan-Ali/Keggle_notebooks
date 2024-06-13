@@ -1,0 +1,79 @@
+Item Code  ,Bearing Type,Brand,Quantity ,Area /Machine ,Unit,Section ,Bearing Condition,Days,Tonnage 
+6230,Deep Groove Ball Bearing ,FAG,1,18H  Motor(Rear Bearing) ,RM,Electrical ,New ,Running,90606.296*
+6230,Deep Groove Ball Bearing ,FAG,1,13H Motor(Rear Bearing),RM,Electrical ,New ,37,12024.36
+6230,Deep Groove Ball Bearing ,FAG,1,7H Motor(Rear Bearing),RM,Electrical ,New ,47,16140.35
+6230,Deep Groove Ball Bearing ,FAG,1,9H  Motor(Rear Bearing),RM,Electrical ,New ,224,83969.34
+6230,Deep Groove Ball Bearing ,FAG,1,13H  Motor(Rear Bearing),RM,Electrical ,New ,42,14764.57
+6230,Deep Groove Ball Bearing ,NSK Japan,1,7H  Motor(Rear Bearing),RM,Electrical ,New ,9,3630.36
+6230,Deep Groove Ball Bearing ,FAG,1,7H  Motor(Rear Bearing),RM,Electrical ,New ,33,13024.25
+Nu-230,Cylindrical Roller Bearing ,FAG,1,7H Motor(Front Bearing),RM,Electrical ,New ,50,18754.94
+NU-230,Cylindrical Roller Bearing ,FAG,1,13H  Motor(Rear Bearing),RM,Electrical ,New ,19,5481.56
+6230,Deep Groove Ball Bearing ,SBM,1,13H Motor(Rear Bearing),RM,Electrical ,New ,Running,79625.73*
+6230,Deep Groove Ball Bearing ,SBM,1,7H  Motor(Rear Bearing),RM,Electrical ,New ,5,2274.46
+6230,Deep Groove Ball Bearing ,FAG,1,7H  Motor(Rear Bearing),RM,Electrical ,Repaired ,14,5219.21
+6230,Deep Groove Ball Bearing ,"Insulated Bearing
+German SKF",1,7H Motor(Rear Bearing),RM,Electrical ,New ,Running,82163.32*
+6230,Deep Groove Ball Bearing ,FAG,1,14V Motor(Rear Bearing),RM,Electrical ,New ,Running,67800.36*
+NU-230,Cylindrical Roller Bearing ,FAG,1,7H Motor(Front Bearing),RM,Electrical ,New ,120,46051.63
+NU-230,Cylindrical Roller Bearing ,FAG,1,13H Motor(Front Bearing),RM,Electrical ,Repaired ,8,3967.61
+6230,Deep Groove Ball Bearing ,FAG,1,10V Motor(Rear Bearing),RM,Electrical ,New ,37,16119.11
+NU230/8203,Cylindrical Roller Bearing ,FAG,1,13H Motor(Front Bearing),RM,Electrical ,New ,32,16213.99
+6230,Deep Groove Ball Bearing ,FAG,1,10V Motor(Rear Bearing),RM,Electrical ,Repaired ,Running,37825.71*
+          NU230,Cylindrical Roller Bearing ,FAG,1,13H Motor(Front Bearing),RM,Electrical ,New ,Running,33252.316*
+           NU230,Cylindrical Roller Bearing ,SBM ,1,9H Motor(Front Bearing ,RM,Electrical ,New ,Running,32191.37*
+NU230 ECM/C3,Cylindrical Roller Bearing ,SBM ,1,17H Motor(Front Brearing),RM,Electrical ,New ,Running,24432.51*
+61844,Deep Groove Ball Bearing ,MEEC,2,12V(Spindle Carrier),RM,Mechanical,New ,284,75907.1
+61844,Deep Groove Ball Bearing ,MEEC,4,15 (Spindle Carrier),RM,Mechanical,New ,Running,50643.297*
+61844,Deep Groove Ball Bearing ,FAG,2,16H (Spindle Carrier),RM,Mechanical,New ,109,33047.001
+61844,Deep Groove Ball Bearing ,SBM,2,16H (Spindle Carrier),RM,Mechanical,New ,109,33047.001
+61844,Deep Groove Ball Bearing ,FAG,4,11H (Spindle Carrier),RM,Mechanical,New ,311,104193.112
+61844,Deep Groove Ball Bearing ,FAG,4,18H (Spindle Carrier),RM,Mechanical,New ,Running,50241*.60
+61844,Deep Groove Ball Bearing ,FAG,2,17H (Spindle Carrier),RM,Mechanical,New ,Running,50241.60*
+61844,Deep Groove Ball Bearing ,NTN,2,17H (Spindle Carrier),RM,Mechanical,New ,Running,50241.60*
+61844,Deep Groove Ball Bearing ,SBM ,2,13H  (Spindle Carrier),RM,Mechanical,New ,73,22417.11
+61844,Deep Groove Ball Bearing ,SBM,2,14V  (Spindle Carrier),RM,Mechanical,New ,73,22417.1
+61844,Deep Groove Ball Bearing ,SBM,1,14V  (Spindle Carrier),RM,Mechanical,New ,212,76823.26
+61844,Deep Groove Ball Bearing ,SBM,1,13H  (Spindle Carrier),RM,Mechanical,New ,229,75442.77
+61844,Deep Groove Ball Bearing ,SBM,2,12V  (Spindle Carrier),RM,Mechanical,New ,154,52474
+61844,Deep Groove Ball Bearing ,SBM,1,12v (Spindle Carrier),RM,Mechanical,New ,Running,26486.283*
+61844,Deep Groove Ball Bearing ,SBM,4,14V (Spindle Carrier),RM,Mechanical,New ,Running,20203.43*
+61844,Deep Groove Ball Bearing ,SBM,2,13H (Spindle Carrier),RM,Mechanical,New ,Running,12491.25*
+61844,Deep Groove Ball Bearing ,SBM,4,16H (Spindle Carrier),RM,Mechanical,New ,Running,3210.32*
+61844,Deep Groove Ball Bearing ,SBM,3,11H(Spindle Carrier),RM,Mechanical,New ,Running,4238.805*
+61856,Deep Groove Ball Bearing ,FAG,1,8V (Spindle Carrier),RM,Mechanical,New ,Running,173462.77*
+61856,Deep Groove Ball Bearing ,FAG,1,9H (Spindle Carrier),RM,Mechanical,New ,Running,165337.58*
+NU-232,Cylindrical Roller Bearing ,SBM,1,Cold Shear Fly Wheel,RM,Mechanical,New ,Running,117961.22*
+6232,Deep Groove Ball Bearing ,SBM,1,Cold Shear Fly Wheel,RM,Mechanical,New ,Running,117961.22*
+23130 CC/C3W33,Spherical Roller Bearing ,SBM,1,13H (Drive Shaft),RM,Mechanical,New ,148,55115
+23130 CC/C3W33,Spherical Roller Bearing ,SBM,1,13H (Drive Shaft),RM,Mechanical,New ,Running,39804.26*
+23130 CC/C3W33,Spherical Roller Bearing ,SBM,2,17H (Drive Shaft),RM,Mechanical,New ,Running,19642.319*
+23228 CC/C3W33,Spherical Roller Bearing ,SBM,1,9H free side (mid),RM,Mechanical,New ,Running,18055.12*
+7314,Angular Contact Ball Bearing ,SBM,2,   Mill unit Pump no 6,RM,Mechanical,New ,Running,60023.70*
+7314,Angular Contact Ball Bearing ,SBM,2,   Mill unit Pump no 4,RM,Mechanical,New ,Running,60023.70*
+7314,Angular Contact Ball Bearing ,SBM,2,CB unit Pump no 3,RM,Mechanical,New ,Running,57856.35*
+7314,Angular Contact Ball Bearing ,SBM,2,Mill hydraulic unit  P no. 5 (now p1),RM,Mechanical,New ,Running,25258.41*
+6314,Deep Groove Ball Bearing ,SBM,1,Mill hydraulic unit  P no. 5 (now p1),RM,Mechanical,New ,Running,25258.41*
+FC-3652168,Four Row Cylindrical roller Bearing  ,MEEC,1,13H,RM,Rollshop,Repaired ,5,1156.718
+FC-3652168,Four Row Cylindrical roller Bearing  ,MEEC,1,18H,RM,Rollshop,Repaired ,8,3788.16
+92734,Tapered roller Thrust Bearing ,MEEC,1,15H,RM,Rollshop,Repaired ,11,5614.605
+FC-4666206,Four Row Cylindrical roller Bearing  ,MEEC,1,5H,RM,Rollshop,Repaired ,35,14343.24
+FC-4666206,Four Row Cylindrical roller Bearing  ,MEEC,1,9H,RM,Rollshop,Repaired ,64,24586.47
+FC-3652168,Four Row Cylindrical roller Bearing  ,MEEC,1,14V,RM,Rollshop,Repaired ,17,5970.64
+FC-5678220,Four Row Cylindrical roller Bearing  ,MEEC,1,2V,RM,Rollshop,Repaired ,17,5729.41
+FC-3652168,Four Row Cylindrical roller Bearing  ,MEEC,1,14V,RM,Rollshop,Repaired ,50,15732.85
+FC-4666206,Four Row Cylindrical roller Bearing  ,MEEC,1,13H,RM,Rollshop,Repaired ,16,5823.303
+FC-3652168,Four Row Cylindrical roller Bearing  ,MEEC,1,15H,RM,Rollshop,Repaired ,8,2498.34
+FC-4666206,Four Row Cylindrical roller Bearing  ,MEEC,1,5H,RM,Rollshop,Repaired ,58,20826.45
+92734,Four Row Cylindrical roller Bearing  ,MEEC,1,15H,RM,Rollshop,Repaired ,6,2396.57
+92736,Tapered roller Thrust Bearing ,MEEC,1,3H,RM,Rollshop,Repaired ,54,22724.54
+92736,Tapered roller Thrust Bearing ,MEEC,1,17H,RM,Rollshop,Repaired ,14,5507.44
+92734,Tapered roller Thrust Bearing ,MEEC,1,7H,RM,Rollshop,Repaired ,32,13954.05
+FC-4666206,Four Row Cylindrical roller Bearing  ,MEEC,1,10V,RM,Rollshop,Repaired ,24,11947.59
+FC-3652168,Four Row Cylindrical roller Bearing  ,MEEC,2,18H,RM,Rollshop,Repaired ,6,2240.015
+FC-3652168,Four Row Cylindrical roller Bearing  ,MEEC,1,15H,RM,Rollshop,Repaired ,9,2948.91
+FC-4666206,Four Row Cylindrical roller Bearing  ,MEEC,2,9H,RM,Rollshop,Repaired ,38,18385.65
+FC-3652168,Four Row Cylindrical roller Bearing  ,MEEC,4,18H,RM,Rollshop,Repaired ,13,5070.95
+92734,Tapered roller Thrust Bearing ,MEEC,1,16H,RM,Rollshop,Repaired ,5,1723.68
+FC-3652168,Four Row Cylindrical roller Bearing  ,MEEC,1,15H,RM,Rollshop,Repaired ,6,1820.72
+FC-3652168,Four Row Cylindrical roller Bearing  ,MEEC,1,18H,RM,Rollshop,Repaired ,3,1208.76
+FC-3652168,Four Row Cylindrical roller Bearing  ,MEEC,1,11H,RM,Rollshop,Repaired ,51,17350.831
